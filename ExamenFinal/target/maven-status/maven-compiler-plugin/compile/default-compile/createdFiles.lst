@@ -1,0 +1,16 @@
+com\projectExam\ExamenFinal\repository\EncargadoRepository.class
+com\projectExam\ExamenFinal\repository\HijoRepository.class
+com\projectExam\ExamenFinal\entities\Encargado.class
+com\projectExam\ExamenFinal\controllers\EncargadoController.class
+com\projectExam\ExamenFinal\ExamenFinalApplication.class
+com\projectExam\ExamenFinal\services\RegLibroServiceImpl.class
+com\projectExam\ExamenFinal\controllers\RegLibroController.class
+com\projectExam\ExamenFinal\services\HijoServiceImpl.class
+com\projectExam\ExamenFinal\entities\Hijo.class
+com\projectExam\ExamenFinal\controllers\HijoController.class
+com\projectExam\ExamenFinal\services\EncargadoServiceImpl.class
+com\projectExam\ExamenFinal\entities\RegLibros.class
+com\projectExam\ExamenFinal\services\HijoService.class
+com\projectExam\ExamenFinal\services\RegLibroService.class
+com\projectExam\ExamenFinal\repository\RegLibroRepository.class
+com\projectExam\ExamenFinal\services\EncargadoService.class
